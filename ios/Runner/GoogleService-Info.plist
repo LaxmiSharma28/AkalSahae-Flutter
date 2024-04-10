@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1064667330944-mn2nfavkou8nb0tlqn1k6ee5dmqrf3bn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1064667330944-mn2nfavkou8nb0tlqn1k6ee5dmqrf3bn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1064667330944-0dgb9skv3hhfvpi9q51gpb5m2cufja0l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHWe92U3dF_r1Ya_1ay7vgbh8l0for6Q4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1064667330944</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nexever.akalsahae</string>
+	<key>PROJECT_ID</key>
+	<string>akal-sahae-4d6a0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>akal-sahae-4d6a0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1064667330944:ios:e7039998d4514ad655e965</string>
+</dict>
+</plist>

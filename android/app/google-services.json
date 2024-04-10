@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1064667330944",
+    "project_id": "akal-sahae-4d6a0",
+    "storage_bucket": "akal-sahae-4d6a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064667330944:android:157709308afb667955e965",
+        "android_client_info": {
+          "package_name": "com.nexever.akalsahae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064667330944-0dgb9skv3hhfvpi9q51gpb5m2cufja0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexever.akalsahae",
+            "certificate_hash": "c1b517dc3951729e08f78249b6c0f64decff19a9"
+          }
+        },
+        {
+          "client_id": "1064667330944-9r01isjfg5vi4p3ief22m1jf3sjd33p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlGHvWMRKd72Ujdfo8il5fmajE53yzEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064667330944-9r01isjfg5vi4p3ief22m1jf3sjd33p1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064667330944-00s2k27fsd8sug6l9mvahjk64bj2al1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akalsahae.akalsahae"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

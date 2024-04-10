@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akaal Sahae</string>
+    <string name="facebook_app_id">1346782732863128</string>
+    <string name="fb_login_protocol_scheme">fb1346782732863128</string>
+    <string name="facebook_client_token">18ae85cfb0b171b84342d3c01571aa09</string>
+</resources>
